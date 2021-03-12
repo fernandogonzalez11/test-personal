@@ -1,3 +1,6 @@
+**this repo is going to be further used for testing stuff**
+
+
 this is a test about how github manages my accounts
 
 I no longer need most of these commands because I thought it was better to just use GitHub Desktop for my personal account, and Git Bash/Git GUI for study.
