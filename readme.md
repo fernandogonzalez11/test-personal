@@ -1,5 +1,8 @@
 this is a test about how github manages my accounts
-```ssh -T personal/study
+I no longer need most of these commands because I thought it was better to just use GitHub Desktop for my personal account, and Git Bash/Git GUI for study.
+This is legacy, though idk maybe sometime I need this
+```
+ssh -T personal/study
 mkdir abc && cd abc
 touch readme.md && vim readme.md
 (edit and save the file)
