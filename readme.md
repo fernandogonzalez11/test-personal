@@ -1,5 +1,8 @@
 this is a test about how github manages my accounts
+
 I no longer need most of these commands because I thought it was better to just use GitHub Desktop for my personal account, and Git Bash/Git GUI for study.
+This is because ssh keys aren't persistent (you have to open ssh-agent on terminal each time) and it's pretty tiring.
+
 This is legacy, though idk maybe sometime I need this
 ```
 ssh -T personal/study
